@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akhtar-coder
+- 👋 Hi, I’m @akhtar-ali
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning FUll Stack Developer
 - 💞️ I’m looking to collaborate on new Skill
